@@ -1,4 +1,0 @@
-﻿  ConsoleApplication5.cpp
-C:\Users\user\source\repos\ConsoleApplication5\ConsoleApplication5.cpp(79,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\user\source\repos\ConsoleApplication5\ConsoleApplication5.cpp(109,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  ConsoleApplication5.vcxproj -> C:\Users\user\source\repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
