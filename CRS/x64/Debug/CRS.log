@@ -1,0 +1,4 @@
+﻿  CRS.cpp
+C:\Users\user\source\repos\ashhhyy\Sir-Frank-s-Car-Rental-System\CRS\CRS.cpp(147,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\ashhhyy\Sir-Frank-s-Car-Rental-System\CRS\CRS.cpp(177,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CRS.vcxproj -> C:\Users\user\source\repos\ashhhyy\Sir-Frank-s-Car-Rental-System\CRS\x64\Debug\CRS.exe
