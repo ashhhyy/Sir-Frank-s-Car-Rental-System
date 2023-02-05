@@ -1,0 +1,4 @@
+﻿  system.cpp
+C:\Users\user\source\repos\system\system.cpp(305,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\system\system.cpp(341,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  system.vcxproj -> C:\Users\user\source\repos\system\x64\Debug\system.exe
