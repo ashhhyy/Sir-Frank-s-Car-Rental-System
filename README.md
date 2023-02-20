@@ -3,7 +3,7 @@
 Instruction:
 1. Download the "system" folder.
 
-2. Run the cpp file.
+2. Run the cpp and solution file.
 
 3. Press "l" to login or "r" to register.
 
